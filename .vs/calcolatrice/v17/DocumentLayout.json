@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Utente\\source\\repos\\calcolatrice\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E8AAFE90-C564-4446-8767-12E6258F38AB}|calcolatrice\\calcolatrice.csproj|c:\\users\\utente\\source\\repos\\calcolatrice\\calcolatrice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8AAFE90-C564-4446-8767-12E6258F38AB}|calcolatrice\\calcolatrice.csproj|solutionrelative:calcolatrice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8AAFE90-C564-4446-8767-12E6258F38AB}|calcolatrice\\calcolatrice.csproj|c:\\users\\utente\\source\\repos\\calcolatrice\\calcolatrice\\classes\\calcolatrice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8AAFE90-C564-4446-8767-12E6258F38AB}|calcolatrice\\calcolatrice.csproj|solutionrelative:calcolatrice\\classes\\calcolatrice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Calcolatrice.cs",
+              "DocumentMoniker": "C:\\Users\\Utente\\source\\repos\\calcolatrice\\calcolatrice\\classes\\Calcolatrice.cs",
+              "RelativeDocumentMoniker": "calcolatrice\\classes\\Calcolatrice.cs",
+              "ToolTip": "C:\\Users\\Utente\\source\\repos\\calcolatrice\\calcolatrice\\classes\\Calcolatrice.cs",
+              "RelativeToolTip": "calcolatrice\\classes\\Calcolatrice.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAABEAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T12:24:49.554Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Utente\\source\\repos\\calcolatrice\\calcolatrice\\Program.cs",
+              "RelativeDocumentMoniker": "calcolatrice\\Program.cs",
+              "ToolTip": "C:\\Users\\Utente\\source\\repos\\calcolatrice\\calcolatrice\\Program.cs",
+              "RelativeToolTip": "calcolatrice\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T12:11:18.889Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

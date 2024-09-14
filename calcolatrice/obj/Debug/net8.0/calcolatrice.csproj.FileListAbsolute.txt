@@ -1,0 +1,14 @@
+C:\Users\Utente\source\repos\calcolatrice\calcolatrice\bin\Debug\net8.0\calcolatrice.exe
+C:\Users\Utente\source\repos\calcolatrice\calcolatrice\bin\Debug\net8.0\calcolatrice.deps.json
+C:\Users\Utente\source\repos\calcolatrice\calcolatrice\bin\Debug\net8.0\calcolatrice.runtimeconfig.json
+C:\Users\Utente\source\repos\calcolatrice\calcolatrice\bin\Debug\net8.0\calcolatrice.dll
+C:\Users\Utente\source\repos\calcolatrice\calcolatrice\bin\Debug\net8.0\calcolatrice.pdb
+C:\Users\Utente\source\repos\calcolatrice\calcolatrice\obj\Debug\net8.0\calcolatrice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Utente\source\repos\calcolatrice\calcolatrice\obj\Debug\net8.0\calcolatrice.AssemblyInfoInputs.cache
+C:\Users\Utente\source\repos\calcolatrice\calcolatrice\obj\Debug\net8.0\calcolatrice.AssemblyInfo.cs
+C:\Users\Utente\source\repos\calcolatrice\calcolatrice\obj\Debug\net8.0\calcolatrice.csproj.CoreCompileInputs.cache
+C:\Users\Utente\source\repos\calcolatrice\calcolatrice\obj\Debug\net8.0\calcolatrice.dll
+C:\Users\Utente\source\repos\calcolatrice\calcolatrice\obj\Debug\net8.0\refint\calcolatrice.dll
+C:\Users\Utente\source\repos\calcolatrice\calcolatrice\obj\Debug\net8.0\calcolatrice.pdb
+C:\Users\Utente\source\repos\calcolatrice\calcolatrice\obj\Debug\net8.0\calcolatrice.genruntimeconfig.cache
+C:\Users\Utente\source\repos\calcolatrice\calcolatrice\obj\Debug\net8.0\ref\calcolatrice.dll
